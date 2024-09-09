@@ -1,10 +1,8 @@
-# Python template for CS3 
+# Python Template for CS3 
 
-### 📖 [PythonDocs Course Website](https://coderina.dev/pythondocs/)
+This repository provides a simple **template** with `Python` starter code. You can create your own copy by clicking `Fork` whenever you need to start a new Python program. For **unit notes** and **helpful resources**, refer to our course website: 📖 [PythonDocs](https://coderina.dev/pythondocs/)
 
-This repository provides a simple **template** with `Python` starter code.
-
-> 🚨 _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
+> ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
 
 ### 💻 Codespaces Instructions
 1. Click the green `<> Code` button in the top right area above the files.
