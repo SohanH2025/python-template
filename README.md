@@ -5,7 +5,8 @@ This repository provides a simple **template** with `Python` starter code. You c
 > ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
 
 ### 💻 Codespaces Instructions
-1. Click the green `<> Code` button in the top right area above the files.
-2. Select the `Codespaces` tab and click `Open Codespace on main `.
-3. Wait for the Codespace to setup – it will take some time because VSCode extensions are being installed.
-4. After the extensions load, you can open `main.py` from the File Explorer and now you're ready to code!
+1. Click the green `<> Code` button in the top right area above the files
+2. Select the `Codespaces` tab and click `Open Codespace on main`
+3. Wait for the Codespace to setup (_it will take some time because VSCode extensions are being installed_)
+4. After the extensions load, you can open `main.py` from the **File Explorer** tab on the left, and now you're ready to code!
+5. Always make sure to save your work before closing a Codespace: navigate to the **Source Control** tab on the left, and click `commit changes`
