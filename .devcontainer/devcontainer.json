@@ -1,9 +1,6 @@
 {
 	"extensions": [
 		"ms-python.python",
-		"dbaeumer.vscode-eslint",
-		"esbenp.prettier-vscode",
-		"streetsidesoftware.code-spell-checker",
 		"fabiospampinato.vscode-monokai-night"
 	]
 
