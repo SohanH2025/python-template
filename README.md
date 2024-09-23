@@ -9,4 +9,4 @@ This repository provides a simple **template** with `Python` starter code. You c
 2. Select the `Codespaces` tab and click `Open new Codespace on main`
 3. Wait for the Codespace to setup (_it will take some time because VSCode extensions are being installed_)
 4. After the extensions load, you can open `main.py` from the **File Explorer** menu on the left, and now you're ready to code!
-5. Always make sure to _save your work_ before closing a Codespace: navigate to the **Source Control** menu on the left, and click `commit changes`
+5. Always make sure to `commit changes` before closing a Codespace! 
